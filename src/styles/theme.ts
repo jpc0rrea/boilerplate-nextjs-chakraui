@@ -25,7 +25,7 @@ export const theme = extendTheme({
   },
   fonts: {
     heading: 'Poppins, sans-serif',
-    body: 'Fira Code',
+    body: 'Rubik, sans-serif',
   },
   styles: {
     global: (props: Dict<unknown>) => ({
